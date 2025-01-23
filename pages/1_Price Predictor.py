@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 import os
-st.set_page_config(page_title="Price Predictor")
+st.set_page_config(page_title="Prices Predictor")
 st.title('Price Predictor')
 # with open(r"D:\ml project\house price prediction\df.pkl", 'rb') as file:
 #     df = pickle.load(file)
